@@ -1,3 +1,3 @@
-Learning to us Github.
+Learning to use Github.
 Emanuel 
 Assignment 2
