@@ -1,3 +1,3 @@
 Learning to use Github.
-Emanuel 
+Emanuel Crisan
 Assignment 2
